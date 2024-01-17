@@ -3,7 +3,7 @@ I am Tabby.
 
 ---
 
-### :woman_technologist: About Me :
+### :👩🏽‍💻: About Me :
 - 👩🏽‍💻 Calling myself a Flutter Maestro!
 - 💙 Crafting dazzling mobile apps with Flutter is my daily jam.
 - ✏️ Penning down Flutter Chronicles on <a href="https://medium.com/@GeekoutwithTabby">Medium</a> – where code meets creativity!
