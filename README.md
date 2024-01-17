@@ -10,8 +10,6 @@ I am Tabby.
 - 🔭 Secretly plotting world domination through my latest project! 😄
 - 🌱 Embarking on a thrilling odyssey to master Kotlin again, while sneakily infiltrating the enigmatic realms of .NET.
 -⚡ Juggling between code and chaos, I find solace in novels, groove to tunes, cheer for football, and race with F1 excitement! 📚🎶⚽🏎️
-User
-
 
 ### 📫 How to reach me:
 
