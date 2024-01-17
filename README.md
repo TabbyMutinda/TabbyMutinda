@@ -4,12 +4,14 @@ I am Tabby.
 ---
 
 ### :woman_technologist: About Me :
-- 👩🏽‍💻 I'm a Flutter Developer.
-- 💙 My main focus is developing mobile apps for clients using Flutter.
-- ✏️ Scribbling Flutter Tales on <a href ="https://medium.com/@GeekoutwithTabby">Medium</a>
-- 🔭 Currently working on a cool project! 😄
-- 🌱 On an exciting journey of relearning Kotlin and concurrently diving into the world of .NET
-- ⚡ I enjoy reading novels, listening to music, watching football and F1
+- 👩🏽‍💻 Calling myself a Flutter Maestro!
+- 💙 Crafting dazzling mobile apps with Flutter is my daily jam.
+- ✏️ Penning down Flutter Chronicles on <a href="https://medium.com/@GeekoutwithTabby">Medium</a> – where code meets creativity!
+- 🔭 Secretly plotting world domination through my latest project! 😄
+- 🌱 Embarking on a thrilling odyssey to master Kotlin again, while sneakily infiltrating the enigmatic realms of .NET.
+-⚡ Juggling between code and chaos, I find solace in novels, groove to tunes, cheer for football, and race with F1 excitement! 📚🎶⚽🏎️
+User
+
 
 ### 📫 How to reach me:
 
