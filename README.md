@@ -9,7 +9,7 @@ I am Tabby.
 - ✏️ Penning down Flutter Chronicles on <a href="https://medium.com/@GeekoutwithTabby">Medium</a> – where code meets creativity!
 - 🔭 Secretly plotting world domination through my latest project! 😄
 - 🌱 Embarking on a thrilling odyssey to master Kotlin again, while sneakily infiltrating the enigmatic realms of .NET.
--⚡ Juggling between code and chaos, I find solace in novels, groove to tunes, cheer for football, and race with F1 excitement! 📚🎶⚽🏎️
+- ⚡ Juggling between code and chaos, I find solace in novels, groove to tunes, cheer for football, and race with F1 excitement! 📚🎶⚽🏎️
 
 ### 📫 How to reach me:
 
